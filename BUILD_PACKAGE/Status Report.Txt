@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:05:58 PM On 4/22/2012
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [TowerRiser2Cards.SchDoc]
+   Generated File[Bill of Materials-TowerRiser2Cards.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:06:08 PM On 4/22/2012
