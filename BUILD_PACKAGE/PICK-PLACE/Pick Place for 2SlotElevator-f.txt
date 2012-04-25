@@ -1,0 +1,9 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R2         R0603                -3700mil        400mil      -3700mil        400mil  -3727.559mil        400mil  B        360.00 330            
+R1         R0603                 -150mil        400mil       -150mil        400mil   -122.441mil        400mil  B        180.00 470            
+D2         LED_1206_-_GREEN  -3850.787mil    399.331mil      -3850mil        400mil  -3805.512mil    399.331mil  B        180.00 LED 3X1.5MM 568NM GN WTR CLR SMD
+D1         LED_1206_-_GREEN      0.787mil    400.669mil          0mil        400mil    -44.488mil    400.669mil  B        360.00 LED 3X1.5MM 568NM GN WTR CLR SMD
+J2         PCIE-164-02-F-D-TH  -1944.291mil     -0.787mil       -275mil        -50mil       -275mil        -50mil  T        180.00 PCIE-164-02-F-D-TH
+J1         PCIE-164-02-F-D-TH  -1944.291mil    849.213mil       -275mil        800mil       -275mil        800mil  T        180.00 PCIE-164-02-F-D-TH
+

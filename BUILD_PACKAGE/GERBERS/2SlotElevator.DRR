@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 2SlotElevator.PcbDoc   4/23/2012  2:02:49 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2SlotElevator.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        27.56mil (0.70002mm)     Round          328              31.59 Inch (802.51 mm)
+T2        129mil (3.2766mm)        Round          4                8.50 Inch (215.90 mm)
+T3        92.52mil (2.35001mm)     Round          4         NPTH   6.61 Inch (167.89 mm)
+---------------------------------------------------------------------------
+Totals                                            336              46.70 Inch (1186.30 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

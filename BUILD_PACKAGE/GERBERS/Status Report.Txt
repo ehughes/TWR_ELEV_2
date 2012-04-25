@@ -1,0 +1,12 @@
+Output: GERBERS
+Type  : NC Drill
+From  : PCB Document [2SlotElevator.PcbDoc]
+   Generated File[2SlotElevator.TXT]
+   Generated File[2SlotElevator.LDP]
+   Generated File[2SlotElevator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:02:49 PM On 4/23/2012

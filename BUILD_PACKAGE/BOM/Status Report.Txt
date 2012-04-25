@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:03:18 PM On 4/23/2012
+
+Output: Assembly BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [2SlotElevator.PrjPcb]
+   Generated File[Assembly BOM-2SlotElevator.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:03:28 PM On 4/23/2012
